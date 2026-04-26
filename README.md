@@ -26,7 +26,7 @@ This project uses a Support Vector Machine (SVM) model to classify iris flowers 
 
 ## 🎯 Result
 
-Achieved ~95% accuracy on test data.
+Achieved 100% accuracy on test data.
 
 ## 🚀 Learning Outcome
 
